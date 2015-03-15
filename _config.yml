@@ -1,0 +1,11 @@
+# Site settings
+title: Agile ITSM
+email: agileitsm@agileitsm.com.br
+description: "Agile ITSM is a free ITSM tool set to help IT Governance"
+baseurl: ""
+url: "http://www.agileitsm.com.br"
+twitter_username: 
+github_username:  agile-itsm
+
+# Build settings
+markdown: kramdown
