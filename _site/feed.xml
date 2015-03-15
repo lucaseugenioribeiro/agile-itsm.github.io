@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Agile ITSM</title>
+    <description>Agile ITSM is a free ITSM tool set to help IT Governance</description>
+    <link>http://www.agileitsm.com.br/</link>
+    <atom:link href="http://www.agileitsm.com.br/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 15 Mar 2015 19:20:59 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2015 19:20:59 +0000</lastBuildDate>
+    <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>Agile ITSM</title>
+        <description>&lt;p&gt;Agile ITSM - A free ITSM Tool for agile environments based on &lt;a href=&quot;https://www.axelos.com/itil&quot;&gt;ITIL&lt;/a&gt; best practices and agile culture&lt;/p&gt;
+
+&lt;h2 id=&quot;origin&quot;&gt;Origin&lt;/h2&gt;
+&lt;p&gt;Agile ITSM is a fork of &lt;a href=&quot;https://code.google.com/p/citsmart/&quot;&gt;citsmart&lt;/a&gt; (available on Google Code under GNU GPL v2 licence) will consider agile approaches and good practices for software construction. Updates in citsmart may be brought to this repository.&lt;/p&gt;
+
+&lt;p&gt;Before release version 1.0.0, Agile ITSM will be in constant refactoring/modification to be able to technological updates on original &lt;a href=&quot;https://code.google.com/p/citsmart/&quot;&gt;citsmart&lt;/a&gt; technologies.&lt;/p&gt;
+
+&lt;h2 id=&quot;informations&quot;&gt;Informations&lt;/h2&gt;
+&lt;p&gt;Take a look at the &lt;a href=&quot;https://github.com/modoagil/agile-itsm/issues&quot;&gt;issues&lt;/a&gt; and &lt;a href=&quot;https://github.com/modoagil/agile-itsm/pulse&quot;&gt;pulse&lt;/a&gt; to see where and how we are working :construction:&lt;/p&gt;
+
+&lt;p&gt;Agile ITSM is not being built to be compatible with &lt;a href=&quot;https://code.google.com/p/citsmart/&quot;&gt;citsmart&lt;/a&gt;. Data model will be modified and adequated, as well as any other characteristic that is considered necessary to modify.&lt;/p&gt;
+
+&lt;h2 id=&quot;some-technologies&quot;&gt;Some Technologies&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programming Language: Agile ITSM is constructed on Java platform&lt;/li&gt;
+  &lt;li&gt;Databases: while Agile ITSM is refactored, only PostgreSQL will be supported&lt;/li&gt;
+  &lt;li&gt;Application Server: Agile ITSM will be AS/Servlet Container independent. However, it is yet JBoss AS dependent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t worry, Agile ITSM is being updated to make it easier to evolve it and adopt it.&lt;/p&gt;
+
+&lt;h2 id=&quot;warning-warning&quot;&gt;:warning: WARNING&lt;/h2&gt;
+&lt;p&gt;Due the origin of the project, you are not encouraged to use it in a production environment before version 1.0.0, which will be the first release version.&lt;/p&gt;
+
+&lt;h2 id=&quot;licence&quot;&gt;Licence&lt;/h2&gt;
+&lt;p&gt;Agile ITSM is released under version 2.0 of the &lt;a href=&quot;http://www.apache.org/licenses/LICENSE-2.0&quot;&gt;Apache License&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 15 Mar 2015 18:21:09 +0000</pubDate>
+        <link>http://www.agileitsm.com.br/2015/03/15/agile-itsm.html</link>
+        <guid isPermaLink="true">http://www.agileitsm.com.br/2015/03/15/agile-itsm.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
